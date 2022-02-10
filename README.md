@@ -29,9 +29,9 @@ Incase you run into any issue or need any clarification, contact the project's s
 ### License
 The web is under MIT license and is open for anyone intrested in using it.
 Copyright (c) 2022 **Geoffrey Gichaga**
-**Samuel Hinga**
-**Bruno Gatiba**
-**Vionna Osiako**
-**Gladys Wanga**
-**Daniel Wanyonyi**
+* **Samuel Hinga**
+* **Bruno Gatiba**
+* **Vionna Osiako**
+* **Gladys Mwangi**
+* **Daniel Wanyonyi**
 ***Moringa School***
