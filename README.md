@@ -7,13 +7,12 @@
 **Vionna Osiako**
 **Gladys Wanga**
 **Daniel Wanyonyi**
-=======
+
 * **Samuel Hinga**
 * **Bruno Gatiba**
 * **Vionna Osiako**
 * **Gladys Mwangi**
 * **Daniel Wanyonyi**
->>>>>>> 5432d93590cfd70534c02a2ff90b6b0e6010e153
 ## Description
 Hire Me bridges the gap between people hiring out products and people seeking to hire products. Our site requires people hiring out products to sign up and verify their information to ensure that the clients 'people seeking to hire' hire from credible sources. People seeking to hire need no signing up as the contact information of people hiring out the product is already indicated. It is our vision to push this website to many users so that we may upgrade to more products and improve overall.
 ## Design
@@ -37,18 +36,15 @@ Incase you run into any issue or need any clarification, contact the project's s
 ### License
 The web is under MIT license and is open for anyone intrested in using it.
 Copyright (c) 2022 **Geoffrey Gichaga**
-<<<<<<< HEAD
 **Samuel Hinga**
 **Bruno Gatiba**
 **Vionna Osiako**
 **Gladys Wanga**
 **Daniel Wanyonyi**
 ***Moringa School***
-=======
 * **Samuel Hinga**
 * **Bruno Gatiba**
 * **Vionna Osiako**
 * **Gladys Mwangi**
 * **Daniel Wanyonyi**
 ***Moringa School***
->>>>>>> 5432d93590cfd70534c02a2ff90b6b0e6010e153
