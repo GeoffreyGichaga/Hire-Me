@@ -1,0 +1,40 @@
+*{
+    font-family: 'Amazon Ember V2', sans-serif;
+}
+nav{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+#cf1{
+    background-color: #fdd101;
+}
+
+.nav-link{
+    color: black;
+    padding-right: 5px;
+}
+
+.nav-link:active{
+    background-color: black;
+}
+
+.nav-link:hover{
+    color: whitesmoke;
+}
+
+
+
+#post-btn{
+    background-color: black;
+    border: none;
+    box-shadow: none;
+}
+
+.navbar-toggler{
+    color: black;
+}
+
+
+#dash{
+    font-weight: 800;
+}
