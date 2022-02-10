@@ -1,30 +1,32 @@
-*{
+* {
     font-family: 'Amazon Ember V2', sans-serif;
 }
-nav{
+
+nav {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
 }
-#cf1{
+
+#cf1 {
     background-color: #fdd101;
 }
 
-.nav-link{
+.nav-link {
     color: black;
     padding-right: 5px;
 }
 
-.nav-link:hover{
+.nav-link:hover {
     color: whitesmoke;
 }
 
-#post-btn{
+#post-btn {
     background-color: black;
     border: none;
     box-shadow: none;
 }
 
-.navbar-toggler{
+.navbar-toggler {
     color: black;
 }
 
@@ -34,97 +36,92 @@ nav{
 
 /******logo and search******/
 
-
-
-
-#logo1{
+#logo1 {
     width: 20%;
-    
 }
 
-.form-control{
+.form-control {
     margin-top: 30px;
     background-color: white;
     box-shadow: none;
     font-family: 'Courier New', Courier, monospace;
 }
-.form-control:focus{
+
+.form-control:focus {
     outline: none;
     box-shadow: none;
 }
 
-
-
-#search-btn{
+#search-btn {
     background-color: #fdd101;
     box-shadow: none;
     margin-top: 30px;
-
-    
 }
 
 
 /******End logo and search******/
 
+
 /****Side nav & slide********/
 
-
-
-.col-sm-3{
+.col-sm-3 {
     margin-top: 5%;
 }
 
-.tab-pane{
+.tab-pane {
     font-family: 'Courier New', Courier, monospace;
 }
 
-.tab-pane .nav-item{
+.tab-pane .nav-item {
     font-weight: 600;
     border-bottom: 1px solid black;
 }
 
-.tab-pane .nav-item a:hover{
+.tab-pane .nav-item a:hover {
     color: yellow;
-
 }
 
-.col-8{
+.col-8 {
     margin-top: 5%;
 }
 
-.carousel-caption{
+.carousel-caption {
     font-family: monospace;
     color: black;
 }
-.carousel-inner{
+
+.carousel-inner {
     height: 280px;
 }
 
+
 /****Cards****/
 
-.card-body{
+.card-body {
     background-color: whitesmoke;
     font-family: monospace;
 }
-.card img{
+
+.card img {
     width: 100%;
 }
 
-.card button{
+.card button {
     color: white;
     background-color: black;
     border: none;
 }
-.card button:hover{
+
+.card button:hover {
     background-color: #fdd101;
 }
 
-.card .btn:focus{
+.card .btn:focus {
     box-shadow: none;
-
 }
-/****End of Cards****/
 
+
+/****End of Cards****/
 
 
 /**** End of Side nav & slide********/
@@ -132,83 +129,79 @@ nav{
 
 /*****Compny goals*****/
 
-.col-auto .card{
+.col-auto .card {
     background-color: whitesmoke;
 }
-#shield{
+
+#shield {
     width: 7%;
 }
-#tech-sup{
+
+#tech-sup {
     width: 7%;
 }
-#quality{
+
+#quality {
     width: 8%;
-
 }
 
-#c-goal1{
+#c-goal1 {
     background-color: whitesmoke;
 }
 
-#c-goal2{
+#c-goal2 {
     background-color: whitesmoke;
 }
 
-#c-goal3{
+#c-goal3 {
     background-color: whitesmoke;
 }
-
 
 
 /*****ENd of Compny goals*****/
 
+
 /****Featured*******/
 
-#bsp{
-    font-family: 'Amazon Ember', sans-serif; 
+#bsp {
+    font-family: 'Amazon Ember', sans-serif;
 }
 
+
 /****End of Featured*******/
-footer{
+
+footer {
     background-color: whitesmoke;
 }
 
-
-#footer-ul a{
+#footer-ul a {
     color: black;
     padding-right: 5px;
     text-decoration: none;
 }
 
-#footer-ul a:hover{
+#footer-ul a:hover {
     color: #fdd101;
 }
 
-.col-sm-4 #android{
+.col-sm-4 #android {
     width: 40%;
-
 }
 
-.phone{
-    color: black;
-    
-}
-
-.phone:hover{
-    color: #fdd101;
-    text-decoration: none;
-}
-.location{
+.phone {
     color: black;
 }
 
-.location:hover{
+.phone:hover {
     color: #fdd101;
     text-decoration: none;
 }
 
+.location {
+    color: black;
+}
 
-
-
-
-
+.location:hover {
+    color: #fdd101;
+    text-decoration: none;
+}
