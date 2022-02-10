@@ -30,7 +30,9 @@ body {
 
 .product-grid .product-image {
     position: relative;
-    transition: all .3s ease 0s
+    transition: all .3s ease 0s;
+    object-fit: cover;
+    height: 40vh;
 }
 
 .product-grid .product-image a {
