@@ -1,7 +1,6 @@
 # Hire Me
 #### Technology brings with it the best tools to make work that would rather be cumbersome easier that's why, we have created Hire me to hire any product with a click of a button, Current version 10th Feb 2022.
 #### By **Geoffrey Gichaga**
-<<<<<<< HEAD
 **Samuel Hinga**
 **Bruno Gatiba**
 **Vionna Osiako**
