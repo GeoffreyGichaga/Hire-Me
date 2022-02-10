@@ -98,6 +98,8 @@ nav {
 /****Cards****/
 
 .card-body {
+
+.card-body{
     background-color: whitesmoke;
     font-family: monospace;
 }

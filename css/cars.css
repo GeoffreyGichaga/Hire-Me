@@ -2,12 +2,11 @@
   width: 60%;
   align-items: center;
 }
-#high {
-}
+
 #high h2 {
   font-size: 40px;
   text-align: center;
-  color: #EBD516;
+  color: whitesmoke;
   font-weight: bold;
   padding-top: 20px;
 }
@@ -19,8 +18,7 @@
   padding-bottom: 10px;
 }
 .critic {
-  background-image: linear-gradient(135deg, #000000, #FEC83D);
-  border-radius: 40px;
+  background-image: linear-gradient(to right top, #fdd23b, #fcae14, #fa8700, #f45a00, #eb1212);  border-radius: 40px;
   transform: translateX(-12%);
 }
 #pngs img {
