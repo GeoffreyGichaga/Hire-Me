@@ -172,6 +172,7 @@ nav {
 
 footer {
     background-color: whitesmoke;
+    display: flex;
 }
 
 #footer-ul a {
