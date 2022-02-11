@@ -1,22 +1,99 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+*{
+    font-family: 'Amazon Ember V2', sans-serif;
+}
+nav{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+#cf1{
+    background-color: #fdd101;
 }
 
-body {
-    font-family: 'Poppins', sans-serif;
-    min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.nav-link{
+    color: black;
+    padding-right: 5px;
 }
 
-.top-para {
-    padding: 4%;
-    font-size: 30px;
+.nav-link:hover{
+    color: whitesmoke;
 }
+
+#post-btn{
+    background-color: black;
+    border: none;
+    box-shadow: none;
+}
+
+.navbar-toggler{
+    color: black;
+}
+
+
+/****End of top nav bar******/
+
+
+/******logo and search******/
+
+
+
+
+#logo1{
+    width: 20%;
+    
+}
+
+.form-control{
+    margin-top: 30px;
+    background-color: white;
+    box-shadow: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+.form-control:focus{
+    outline: none;
+    box-shadow: none;
+}
+
+
+
+#search-btn{
+    background-color: #fdd101;
+    box-shadow: none;
+    margin-top: 30px;
+
+    
+}
+
+
+/******End logo and search******/
+
+/****Side nav & slide********/
+
+
+
+.col-sm-3{
+    margin-top: 5%;
+}
+
+.tab-pane{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.tab-pane .nav-item{
+    font-weight: 600;
+    border-bottom: 1px solid black;
+}
+
+.tab-pane .nav-item a:hover{
+    color: yellow;
+
+}
+
+.col-8{
+    margin-top: 5%;
+}
+
+
+
 
 .product-grid {
     text-align: center;
